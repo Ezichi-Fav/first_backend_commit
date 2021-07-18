@@ -1,0 +1,16 @@
+C:\Users\ofoezie ezichi fav\Desktop\week8\calculatorapp\MyCalculatorConsoleApp\bin\Debug\net5.0\MyCalculatorConsoleApp.exe
+C:\Users\ofoezie ezichi fav\Desktop\week8\calculatorapp\MyCalculatorConsoleApp\bin\Debug\net5.0\MyCalculatorConsoleApp.deps.json
+C:\Users\ofoezie ezichi fav\Desktop\week8\calculatorapp\MyCalculatorConsoleApp\bin\Debug\net5.0\MyCalculatorConsoleApp.runtimeconfig.json
+C:\Users\ofoezie ezichi fav\Desktop\week8\calculatorapp\MyCalculatorConsoleApp\bin\Debug\net5.0\MyCalculatorConsoleApp.runtimeconfig.dev.json
+C:\Users\ofoezie ezichi fav\Desktop\week8\calculatorapp\MyCalculatorConsoleApp\bin\Debug\net5.0\MyCalculatorConsoleApp.dll
+C:\Users\ofoezie ezichi fav\Desktop\week8\calculatorapp\MyCalculatorConsoleApp\bin\Debug\net5.0\ref\MyCalculatorConsoleApp.dll
+C:\Users\ofoezie ezichi fav\Desktop\week8\calculatorapp\MyCalculatorConsoleApp\bin\Debug\net5.0\MyCalculatorConsoleApp.pdb
+C:\Users\ofoezie ezichi fav\Desktop\week8\calculatorapp\MyCalculatorConsoleApp\obj\Debug\net5.0\MyCalculatorConsoleApp.csproj.AssemblyReference.cache
+C:\Users\ofoezie ezichi fav\Desktop\week8\calculatorapp\MyCalculatorConsoleApp\obj\Debug\net5.0\MyCalculatorConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofoezie ezichi fav\Desktop\week8\calculatorapp\MyCalculatorConsoleApp\obj\Debug\net5.0\MyCalculatorConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ofoezie ezichi fav\Desktop\week8\calculatorapp\MyCalculatorConsoleApp\obj\Debug\net5.0\MyCalculatorConsoleApp.AssemblyInfo.cs
+C:\Users\ofoezie ezichi fav\Desktop\week8\calculatorapp\MyCalculatorConsoleApp\obj\Debug\net5.0\MyCalculatorConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ofoezie ezichi fav\Desktop\week8\calculatorapp\MyCalculatorConsoleApp\obj\Debug\net5.0\MyCalculatorConsoleApp.dll
+C:\Users\ofoezie ezichi fav\Desktop\week8\calculatorapp\MyCalculatorConsoleApp\obj\Debug\net5.0\ref\MyCalculatorConsoleApp.dll
+C:\Users\ofoezie ezichi fav\Desktop\week8\calculatorapp\MyCalculatorConsoleApp\obj\Debug\net5.0\MyCalculatorConsoleApp.pdb
+C:\Users\ofoezie ezichi fav\Desktop\week8\calculatorapp\MyCalculatorConsoleApp\obj\Debug\net5.0\MyCalculatorConsoleApp.genruntimeconfig.cache
